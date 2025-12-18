@@ -1,0 +1,23 @@
+Generations of Programming Languages:
+------------------------------------
+
+1st Generation Programming Lanugage:
+-----------------------------------
+
+=> First Generation Programming Languages is also called as Machine Languages.
+=> The code is written in the form of 0s and 1s.
+
+Advantages:
+----------
+
+=> No need translator.
+=> Fasters.
+
+Disadvantages:
+-------------
+=> For users it will hard to write the code.
+=> Difficult debugg the errors
+
+
+
+2nd Generation Programming Languages:
